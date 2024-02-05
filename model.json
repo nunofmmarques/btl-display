@@ -5,7 +5,7 @@
     ":description": "This example text is used as a description.",
     ":type": "line"
   },
-  {
+  "custom-object": {
     ":name": "Example",
     ":locales": [
       "en",
