@@ -2,5 +2,10 @@
   "custom-field": "Teste",
   "custom-object": {
     "custom-line": "123"
-  }
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "<strong>asdasda </strong><em>asdasd</em>"
+    }
+  ]
 }
