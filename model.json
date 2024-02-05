@@ -25,7 +25,8 @@
     ":items": {
       "custom-list-item": {
         ":name": "name of hotel",
-        ":type": "line"
+        ":type": "line",
+        ":richtext": true
       }
     }
   }
