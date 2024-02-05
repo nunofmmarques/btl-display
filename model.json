@@ -16,6 +16,7 @@
   "custom-list": {
     ":items": {
       "custom-list-item": {
+        ":name": "name of hotel",
         ":type": "line"
       }
     }
